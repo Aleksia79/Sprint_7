@@ -1,0 +1,1 @@
+{"uuid": "63767bbf-5610-4314-b086-f346901b139e", "children": ["a67d461d-ada0-4356-b28f-c664b5bd9bce"], "befores": [{"name": "Добавляем к URL https://qa-scooter.praktikum-services.ru/ ручку api/v1/orders/accept/", "status": "passed", "start": 1744588262278, "stop": 1744588262278}], "start": 1744588262278, "stop": 1744588263580}
